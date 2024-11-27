@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vincent%20Martowicz-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vmartowicz/)
+<br/>
