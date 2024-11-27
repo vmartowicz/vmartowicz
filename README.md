@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vincent%20Martowicz-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vincentmartowicz/)
 <br/>
+
+### Projects:
+
+![Vincent Martowicz's github stats](https://github-readme-stats.vercel.app/api?username=vmartowicz&count_private=true&hide=contribs&theme=tokyonight)
