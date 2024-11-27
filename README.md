@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@vmartowicz-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/vmartowicz)
 <br/>
 
+### Talking about anything:
+
+- 💬 Ask me about anything [here](https://github.com/vmartowicz/vmartowicz/issues/)! 
+- 📫 How to reach me: contact@vincent-martowicz.fr
+
 ### Projects:
 
 ![Vincent Martowicz's github stats](https://github-readme-stats.vercel.app/api?username=vmartowicz&count_private=true&hide=contribs&theme=tokyonight)
