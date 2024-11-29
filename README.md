@@ -28,18 +28,37 @@ Here are some ideas to get you started:
 
 ### Skills:
 
-<code><img height="25" src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular"></code>
-<code><img height="25" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java"></code>
-<code><img height="25" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring boot"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="25" src="https://ftp.osuosl.org/pub/jenkins/art/jenkins-logo/1024x1024/headshot.png" alt="jenkins"></code>
-<code><img height="25" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/elastic-logo.png?raw=true" alt="nodejs"></code>
-<code><img height="25" src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" alt="sql"></code>
-<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/56/JHipster-logo.png" alt="JHipster"></code>
-<code><img height="25" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="Intellij IDEA"></code>
+- Languages :
+  <code><img height="25" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" alt="typescript"></code>
+- Frontend :
+  <code><img height="25" src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular"></code>
+- Backend :
+  <code><img height="25" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring boot"></code>
+- Tools :
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/56/JHipster-logo.png" alt="JHipster"></code>
+- CI/CD :
+  <code><img height="25" src="https://ftp.osuosl.org/pub/jenkins/art/jenkins-logo/1024x1024/headshot.png" alt="jenkins"></code>
+- Database :
+  <code><img height="25" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/elastic-logo.png?raw=true" alt="nodejs"></code>
+  <code><img height="25" src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" alt="sql"></code>
+  <code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+- Test :
+- Software :
+  <code><img height="25" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="Intellij IDEA"></code>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Projects:
