@@ -34,38 +34,59 @@ Currently I'm working as a freelancer.
 ### Skills:
 
 - Languages :
-  <code><img height="25" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" alt="typescript"></code>
-- Frontend :
-  <code><img height="25" src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="scala"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin"></code>
 - Backend :
-  <code><img height="25" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring boot"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="hibernate"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node"></code>
+- Frontend :
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"></code>
 - Tools :
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/56/JHipster-logo.png" alt="JHipster"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" alt="yarn"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="gradle"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="sonar"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="prometheus"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" alt="vault"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="apachekafka"></code>
 - CI/CD :
-  <code><img height="25" src="https://ftp.osuosl.org/pub/jenkins/art/jenkins-logo/1024x1024/headshot.png" alt="jenkins"></code>
-- Database :
-  <code><img height="25" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/elastic-logo.png?raw=true" alt="nodejs"></code>
-  <code><img height="25" src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" alt="sql"></code>
-  <code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+ <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins"></code>
+ <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github"></code>
+ <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab"></code>
+ <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="githubaction"></code> 
+- Database : 
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb"></code>  
 - Test :
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="junit"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="cucumber"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatling/gatling-original.svg" alt="gatling"></code>
 - Software :
-  <code><img height="25" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="Intellij IDEA"></code>
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij"></code>
+- Cloud :
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" alt="heroku"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="azuredevops"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes"></code>
 
 ### Projects:
 
 ![Vincent Martowicz's github stats](https://github-readme-stats.vercel.app/api?username=vmartowicz&count_private=true&hide=contribs&theme=tokyonight)
+
