@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@vmartowicz-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/vmartowicz)
 <br/>
 
+### About
+
+I am a programmer 💻 based in Bordeaux who loves programming and learning. My curiosity and passion for computing and programming began 🚀 when I was very young and continue to grow 🔝 day by day, without stopping.
+Currently I'm working as a freelancer.
+
 ### Talking about anything:
 
 - 💬 Ask me about anything [here](https://github.com/vmartowicz/vmartowicz/issues/)! 
