@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Website Badge](https://img.shields.io/badge/My%20Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.vincent-martowicz.fr/portfolio)
+[![Website Badge](https://img.shields.io/badge/My%20Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.vincent-martowicz.fr/portfolio)<br>
 [![Linkedin Badge](https://img.shields.io/badge/-Vincent%20Martowicz-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vincentmartowicz/)
 [![Twitter Badge](https://img.shields.io/badge/-@vmartowicz-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/vmartowicz)
+[![Malt Badge](https://img.shields.io/badge/-@vmartowicz-white?style=flat-square&logo=Malt&logoColor=red)](https://www.malt.fr/profile/vmartowicz)
+[![Collective Badge](https://img.shields.io/badge/-@Vincent%20Martowicz-blue?style=flat-square&logo=Collective&logoColor=white)](https://me.collective.work/vincent-martowicz)<br>
+[![Calendly Badge](https://img.shields.io/badge/-Calendly-white?style=flat-square&logo=Calendly&logoColor=blue)](https://calendly.com/vincent-martowicz/30min)
 <br/>
 
 ### About
