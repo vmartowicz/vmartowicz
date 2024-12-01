@@ -88,7 +88,9 @@ Currently I'm working as a freelancer.
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="azuredevops"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes"></code>
 
-### Projects:
+### Some statistics:
 
-![Vincent Martowicz's github stats](https://github-readme-stats.vercel.app/api?username=vmartowicz&count_private=true&hide=contribs&theme=tokyonight)
+|                                                             Languages                                                              | |                                                    Contributions                                                     |
+|:----------------------------------------------------------------------------------------------------------------------------------:|:---:|:--------------------------------------------------------------------------------------------------------------------:|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vmartowicz&theme=tokyonight&hide_langs_below=8&count_private=true) |  | ![](https://github-readme-stats.vercel.app/api?username=vmartowicz&show_icons=true&theme=tokyonight&count_private=true) |
 
