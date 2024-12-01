@@ -63,7 +63,9 @@ Currently I'm working as a freelancer.
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="prometheus"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" alt="vault"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="apachekafka"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="apachekafka"></code> 
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></code>
+
 - CI/CD :
  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins"></code>
  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github"></code>
@@ -87,6 +89,10 @@ Currently I'm working as a freelancer.
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" alt="heroku"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="azuredevops"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes"></code>
+
+
+#### Practices
+- <code><img height="32" width="32" src="./assets/images/tdd.png" alt ="DevOps" title="TDD"/></code> <code><img height="32" width="" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/></code> <code><img height="32" width="" src="./assets/images/kanban.png" alt ="Scrum" title="Kanban"/></code>
 
 ### Some statistics:
 
